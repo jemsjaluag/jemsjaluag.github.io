@@ -5,20 +5,20 @@ body {
 
 h1 {
   font-weight: bold;
-    font-size: 40px;
+    font-size: 2em;
 }
 
 p {
-  font-size: 29px;
-  line-height: 5px;
+  font-size: 1em;
+  line-height: 1em;
 }
 
 p.sub {
-    font-size: 23px;
+    font-size: 0.8em;
 }
 
 p.email {
-    font-size: 23px;
+    font-size: 0.8em;
 }
 
 a {
