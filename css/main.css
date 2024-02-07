@@ -12,6 +12,14 @@ p {
   line-height: 1.43m;
 }
 
+p.sub {
+    font-size: 8px;
+}
+
+p.email {
+    font-size: 8px;
+}
+
 a {
     font-size: 8px;
 }
