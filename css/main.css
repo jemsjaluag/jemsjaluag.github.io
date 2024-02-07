@@ -19,6 +19,7 @@ p.sub {
 
 p.email {
     font-size: 0.5em;
+    font-style: italic;
 }
 
 a {
