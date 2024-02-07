@@ -13,10 +13,6 @@ p {
   line-height: 1em;
 }
 
-p:hover {
-    color: #9C7AF9;
-}
-
 p.sub {
     font-size: 0.8em;
 }
@@ -30,4 +26,8 @@ a {
     text-decoration: none;
     font-size: 18px;
     color: #999;
+}
+
+a:hover {
+    color: #9C7AF9;
 }
