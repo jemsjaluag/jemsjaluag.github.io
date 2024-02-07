@@ -13,6 +13,10 @@ p {
   line-height: 1em;
 }
 
+p:hover {
+    color: #9C7AF9;
+}
+
 p.sub {
     font-size: 0.8em;
 }
